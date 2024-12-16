@@ -2,6 +2,5 @@
 
 User-agent: *
 Allow: /
-
-User-agent: *
 Disallow: /about.html
+Sitemap: https://aliattashah.github.io/glozzome/sitemap.xml
