@@ -1,0 +1,7 @@
+# This is a Ali's First SEO
+
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /about.html
